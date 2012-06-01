@@ -9,6 +9,7 @@ Writed on QT4 wuth QtQuick interface in QtCreator
 ### v1.0 - Mouse
  * Support Nokia N9
  * Mouse driver for bluez HID
+ * Accelerometer, gyroscope or touchpad
  * Calibration tool (by corners of teh screen)
  * Mouse buttons - left, right, scroll, any buttons
  * List of devices, connect to device and simple switch
