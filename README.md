@@ -10,12 +10,13 @@ Writed on QT4 wuth QtQuick interface in QtCreator
  * Support Nokia N9
  * Mouse driver for bluez HID
  * Calibration tool (by corners of teh screen)
- * Mouse buttons - left, right, scroll
+ * Mouse buttons - left, right, scroll, any buttons
  * List of devices, connect to device and simple switch
 
 ### v2.0 - Keyboard
  * Keyboard driver for bluez HID
  * Change keyboard locale
+ * Autorepeat and some preferencens
  * Changing internal keyboard keys to need symbols
  * Usage of internal keyboard or global keyboard
 
